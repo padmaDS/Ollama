@@ -1,6 +1,5 @@
-# https://www.youtube.com/watch?v=yPphKQp1fqE
-
-Ollama
+# Ollama
+https://www.youtube.com/watch?v=yPphKQp1fqE
 
 How to execute modelfile:
 
